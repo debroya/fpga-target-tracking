@@ -1,0 +1,16 @@
+# Tang Dynasty generated build results and local logs
+project/td_project/*_Runs/
+project/td_project/log/
+*.log
+*.logw
+*.bit
+*.db
+*.bid
+*.qor
+*.timing
+*.area
+*.bak
+*.tmp
+*.jou
+.DS_Store
+Thumbs.db
